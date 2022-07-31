@@ -27,12 +27,19 @@
 ### 数据来源：
 导出微信聊天记录，安卓导出记录的方法好像不太容易，可以参考导到apple手机中导出
 ### 可视化
-![image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b1.html)
-![image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b2.html)
-![image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b3.html)
-![image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b4.html)
-![image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b5.html)
-![image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b6.html)
+
+[image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b1.html)
+
+[image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b2.html)
+
+[image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b3.html)
+
+[image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b4.html)
+
+[image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b5.html)
+
+[image](https://github.com/Cpuritan/NLP_ChatAnalyze/blob/master/b6.html)
+
 ### 新词发现和关键词提取
 短语提取通过互信息和左右信息熵的综合得分，探寻属于我们的新词并通过 TextRank 算法进行关键词和关键句的排序与提取。
 ### 文本聚类
